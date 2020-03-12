@@ -1,3 +1,7 @@
-/*
-!.gitignore
-!wp-content/
+public/wp-admin/
+public/wp-includes/
+public/wp-config.php
+public/.htaccess
+vendor/
+package-lock.json
+composer.lock
