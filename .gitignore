@@ -5,11 +5,11 @@ composer.lock
 .DS_Store
 
 
-public/wp/wp-config.php
-vendor
-public/wp-content/plugins
-public/wp-config.php
-public/wp-content/uploads
+/public/wp/wp-config.php
+/vendor
+/public/wp-content/plugins
+/public/wp-config.php
+/public/wp-content/uploads
 
 #gitignore for theme folder
 !/public/wp/wp-content/themes/coloredcow
