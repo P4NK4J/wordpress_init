@@ -1,20 +1,5 @@
   
-*.log
-.htaccess
-composer.lock
-.DS_Store
-
-
-/public/wp/wp-config.php
-/vendor
-/public/wp-content/plugins
-/public/wp-config.php
-/public/wp-content/uploads
-
-#gitignore for theme folder
-!/public/wp/wp-content/themes/coloredcow
-/public/wp/wp-content/themes/coloredcow/node_modules
-/public/wp/wp-content/themes/coloredcow/main.js
-/public/wp/wp-content/themes/coloredcow/style.css
-/public/wp/wp-content/themes/coloredcow/*.map
-/public/wp/wp-content/themes/coloredcow/.sass-cache
+/*
+!.gitignore
+!wp-content/
+!wp/
