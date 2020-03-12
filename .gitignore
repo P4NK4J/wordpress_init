@@ -1,3 +1,19 @@
-wp-config.php
-!.gitignore
-!wp/
+  
+*.log
+.htaccess
+composer.lock
+.DS_Store
+
+public/wp
+vendor
+public/wp-content/plugins
+public/wp-config.php
+public/wp-content/uploads
+
+#gitignore for theme folder
+!/public/wp-content/themes/coloredcow
+/public/wp-content/themes/coloredcow/node_modules
+/public/wp-content/themes/coloredcow/main.js
+/public/wp-content/themes/coloredcow/style.css
+/public/wp-content/themes/coloredcow/*.map
+/public/wp-content/themes/coloredcow/.sass-cache
