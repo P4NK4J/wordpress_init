@@ -18,7 +18,8 @@
     ],
     "require": {
         "wordpress": "4.*",
-        "fancyguy/webroot-installer": "1.0.0"
+        "fancyguy/webroot-installer": "1.0.0",
+        "wpackagist-plugin/custom-post-type-ui": "*"
     },
     "extra": {
         "webroot-dir": "public/wp",
