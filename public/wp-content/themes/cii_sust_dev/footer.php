@@ -8,7 +8,7 @@
         'theme_location' => 'footer'
     );
 
-    wp_nav_menu( );
+    wp_nav_menu( $args);
     ?>
     
     </nav>
